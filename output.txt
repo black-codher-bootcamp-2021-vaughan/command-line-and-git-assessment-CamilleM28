@@ -1,0 +1,19 @@
+Script started on 2021-11-09 17:52:40+01:00 [TERM="dumb" TTY="/dev/pts/1" COLUMNS="96" LINES="25"]
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ mkdir folder1
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ mkdir folder2
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ touch file1.txt
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ touch file2.txt
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ touch file3.rxr   txt
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ mv file1.txt ~/command-line-and<d-git-assessment-CamilleM28$ mv file1.txt ~/command-line-and-                               git-assessment-CamilleM28/folde<file1.txt ~/command-line-and-git-assessment-CamilleM28/folder                               1
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ mv file2.txt ~/command-line-and<d-git-assessment-CamilleM28$ mv file2.txt ~/command-line-and-                               git-assessment-Camile leM28/folde<file2.txt ~/command-line-and-git-assessment-CamilleM28/folder                               2
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ cd folder1
+camille@penguin:~/command-line-and-git-assessment-CamilleM28/folder1$ ls
+file1.txt
+camille@penguin:~/command-line-and-git-assessment-CamilleM28/folder1$ pwd
+/home/camille/command-line-and-git-assessment-CamilleM28/folder1
+camille@penguin:~/command-line-and-git-assessment-CamilleM28/folder1$ cd ..
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ rm file3.txt
+camille@penguin:~/command-line-and-git-assessment-CamilleM28$ exit
+exit
+
+Script done on 2021-11-09 18:02:57+01:00 [COMMAND_EXIT_CODE="0"]
